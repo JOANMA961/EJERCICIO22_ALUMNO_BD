@@ -18,7 +18,7 @@ public class PRINCIPAL {
 	final static int SELEC_INICIAL = 6;
 	final static int MAYORES_65 = 7;
 	final static int SALIR = 8;
-
+	final static int SALIR_otrO = 8;
 	public static void main(String[] args) {
 
 		MODEL_ALUMNO model_al = new MODEL_ALUMNO();
