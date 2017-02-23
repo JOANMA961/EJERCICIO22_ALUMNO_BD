@@ -24,8 +24,8 @@ public class PRINCIPAL {
 		MODEL_ALUMNO model_al = new MODEL_ALUMNO();
 		ALUMNO alumno = new ALUMNO();
 		ResultSet rs;
-// menu principal
-		int opcion;
+		// menu principal
+		int opcion,num;
 		Scanner scan = new Scanner(System.in);
 		do {
 			System.out.println("\n\n\t\t\tMENU ALUMNOS\n");
