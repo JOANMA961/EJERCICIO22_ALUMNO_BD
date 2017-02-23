@@ -9,7 +9,7 @@ import modelo.MODEL_ALUMNO;
 import tablas.ALUMNO;
 
 public class PRINCIPAL {
-
+//opciones de menu
 	final static int SELEC_TODOS = 1;
 	final static int INSERTAR = 2;
 	final static int BORRAR = 3;
